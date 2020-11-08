@@ -6,3 +6,4 @@ while i <  array.length
   new_num = array[i] ** 2 
   new_array << new_num   
 end
+end
